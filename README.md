@@ -20,7 +20,7 @@ This project simulates a university computer lab network using Cisco Packet Trac
 
 | File Name | Description |
 |-----------|-------------|
-| `University_Student_Lab.pkt` | Packet Tracer project file containing full network setup |
+| `labsetup.pkt` | Packet Tracer project file containing full network setup |
 | `screenshot.png` | Network topology diagram (optional) |
 | `README.md` | This documentation |
 
